@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xavier Devroey
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Delft University of Technology
+  url: "https://se.ewi.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems engineering.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Search-Based Software Testing
+- Model-Based Testing
+- Mutation Testing
+- Variability Modeling
+- Software Product Line Testing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science
+    institution: University of Namur, Belgium
+    year: 2017
+  - course: Master in Computer Science
+    institution: University of Namur, Belgium
+    year: 2010
+  - course: Bachelor Analyst Programmer
+    institution: Haute Ecole de Bruxelles, Belgium
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +49,19 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/xdevroey
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=GTaILJgAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xdevroey
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0831-7606
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/author/1301794/xavier-devroey
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Xavier Devroey. I am a postdoctoral researcher in the [Software Engineering Research Group](https://serg-delft.github.io) (SERG) of the [Delft University of Technology](https://www.tudelft.nl). Btween 2017 and 2019, I was involved in the [Big Software on the Run 3TU project](http://www.3tu-bsr.nl) (BSR) and the [Software Testing Amplification European project](https://stamp.ow2.org/) (STAMP). Prior, I obtained my Ph.D. in Computer Science from the University of Namur in Belgium, where I defended my thesis, entitled *Software Product Line Behavioural Model-Based Testing*, in August 2017.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research ambition is to advance the state-of-the-art and practice of automated test case generation. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
