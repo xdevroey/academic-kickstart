@@ -5,8 +5,8 @@ title: "Tips and resources to start writing"
 subtitle: ""
 summary: ""
 authors: ["Xavier Devroey"]
-tags: []
-categories: ["Writing"]
+tags: ["Writing"]
+categories: [Tips]
 date: 2019-07-12
 lastmod: 2019-07-12
 featured: false

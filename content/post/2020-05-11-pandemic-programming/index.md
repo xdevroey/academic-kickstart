@@ -5,7 +5,7 @@ title: "Pandemic Programming"
 subtitle: "L’impact de la COVID-19 sur les développeurs logiciels et comment les entreprises peuvent aider"
 authors: ["Xavier Devroey"]
 tags: ["Pandemic Programming", "French"]
-categories: []
+categories: ["Research results"]
 date: 2020-05-11
 lastmod: 2020-05-11
 featured: false

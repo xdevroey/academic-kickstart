@@ -4,8 +4,8 @@
 title: "Big Software on the Run (3TU BSR)"
 summary: "BSR aims at developing novel techniques and tools to analyse software systems in vivo - making it possible to visualize behaviour, create models, check conformance, predict problems, and recommend corrective actions."
 authors: []
-tags: []
-categories: []
+tags: ["Software Testing", "Crash Reproduction"]
+categories: [Funded]
 date: 2018-08-04
 
 # Optional external URL for project (replaces project detail page).

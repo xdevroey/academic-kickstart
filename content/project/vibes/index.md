@@ -4,12 +4,12 @@
 title: "Variability Intensive system Behavioural teSting (VIBeS)"
 summary: "VIBeS is the framework I developed during my PhD thesis to generate test-cases from models of variability-intensive systems."
 authors: []
-tags: []
-categories: []
+tags: ["Software Testing", "Software Product Line"]
+categories: [Internal]
 date: 2017-08-31
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/xdevroey/vibes"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/xdevroey/vibes"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This projects aims at providing model-driven testing tools working on Transition Systems, Featured Transition Systems and Usage Models in order to perform various testing tasks: test case selection, prioritization, mutation testing, etc.

@@ -7,7 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019)*"
-tags: ["selected2"]
+tags: ["API Misuse", "Software Testing", "Crash Reproduction", "Search-Based Software Testing", "Static Analysis"]
 doi: "10.1145/3293882.3330552"
 ---
-

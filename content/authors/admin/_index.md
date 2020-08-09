@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/xdevroey
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=GTaILJgAAAAJ
+  link: https://scholar.google.com/citations?user=GTaILJgAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/xdevroey

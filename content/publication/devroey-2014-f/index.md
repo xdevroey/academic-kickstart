@@ -7,7 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 22Nd ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE 2014, Visions and Challenges track)*"
-tags: ["Featured Transition Systems", "Mutation Testing", "featured transition systems", "mutation testing"]
+tags: ["Featured Transition Systems", "Mutation Testing"]
 doi: "10.1145/2635868.2666610"
 ---
-

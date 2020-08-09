@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "Namur, Belgium"
   date_start = "2011-09-01"
   date_end = "2017-08-31"
-  description = """As a Ph.D. student, I devoted half of his time to research on *Software Product Line Behavioural Model-Based Testing* and the other half to teaching and service."""
+  description = """As a Ph.D. student, I devoted half of my time to research on *Software Product Line Behavioural Model-Based Testing* and the other half to teaching and service."""
 
 [[experience]]
   title = "Developer"

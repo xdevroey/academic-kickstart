@@ -7,7 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the Eight International Workshop on Variability Modelling of Software-intensive Systems*"
-tags: ["Prioritization", "Software Product Line", "Software Testing", "Statistical Testing", "prioritization", "spl testing", "statistical testing"]
+tags: ["Prioritization", "Software Product Line", "Software Testing", "Statistical Testing", "Prioritization", "Statistical Testing"]
 doi: "10.1145/2556624.2556635"
 ---
-

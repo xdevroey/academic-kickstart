@@ -4,8 +4,8 @@
 title: "Software Testing AMPlification (EU H2020 STAMP)"
 summary: "STAMP aims at bringing test automation and amplification to the DevOps world. During my postdoc at TU Delft, I assumed the daily supervision and coordination of the scientific work package *runtime amplification* and the edition of the TU Delft deliverables."
 authors: []
-tags: []
-categories: []
+tags: ["Software Testing", "Test Amplification", "Crash Reproduction"]
+categories: [Funded]
 date: 2019-11-30
 
 # Optional external URL for project (replaces project detail page).

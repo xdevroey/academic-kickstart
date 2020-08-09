@@ -4,12 +4,12 @@
 title: "Yet Another Model Inference (YAMI)"
 summary: "YAMI is a simple tool to learn usage models from execution traces contained in application logs."
 authors: []
-tags: []
-categories: []
-date: 2017-08-31
+tags: ["Statistical Testing", "Prioritization"]
+categories: [Internal]
+date: 2017-08-30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/xdevroey/yami"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/xdevroey/yami"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Usage models represents the usage scenarios of the software as well as their probability. This allows one to determine the relative importance of execution scenarios (with respect to other). This project explores the possibility to reverse engineer usage models based on execution traces contained in application logs.
