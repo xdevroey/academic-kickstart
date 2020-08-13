@@ -16,8 +16,7 @@ publishDate: 2020-08-09T13:57:49+02:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM SIGSOFT Software Engineering Notes"
-publication_short: "SEN"
+publication: "*ACM SIGSOFT Software Engineering Notes*"
 
 abstract: "In the past years, everyday life has been profoundly transformed by the development and widespread of digital technologies. Gen- eral, as well as specialized audiences, have to face an ever-increasing amount of knowledge and learn new abilities. This rst edition of the EASEAI workshop tried to address that challenge by look- ing at software engineering, education, and arti cial intelligence research elds to explore how they can be combined. Speci cally, we brought together researchers, teachers, and practitioners who use advanced software engineering tools and arti cial intelligence techniques in education. And researchers and teachers in edu- cation science who address the problem of improving the aware- ness regarding digital technologies through a transgenerational and transdisciplinary range of students."
 

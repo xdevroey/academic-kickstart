@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10 # Order that this section will appear.
 
 title = "Services"
-subtitle = ""
+subtitle = "On this page, you will find a my contributions as reviewer, program committee member, and co-chair."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

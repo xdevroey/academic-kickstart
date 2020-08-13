@@ -6,6 +6,5 @@ authors: ["Vincent Englebert", "Xavier Devroey"]
 publication_types: ["6"]
 abstract: ""
 featured: false
-publication: "*L'informatique expliquée aux enseignants*"
+publication: "*L’informatique à la portée de tous. Comprendre les savoirs pour mieux les transmettre* (to appear)"
 ---
-

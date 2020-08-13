@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Research"
-subtitle = ""
+subtitle = "On this page, you will find my list of publications and research projects I have contributed to."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
