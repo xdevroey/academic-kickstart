@@ -2,7 +2,7 @@
 title: "Commonality-Driven Unit Test Generation"
 date: 2020-10-01
 publishDate: 2020-08-13T12:49:10.361054Z
-authors: ["Björn Evers", "Xavier Devroey", "Pouria Derakhshanfar", "Andy Zaidman"]
+authors: ["Björn Evers", "Pouria Derakhshanfar", "Xavier Devroey", "Andy Zaidman"]
 publication_types: ["1"]
 abstract: "Various search-based test generation techniques have been proposed to automate the generation of unit tests fulfilling different criteria (e.g., line coverage, branch coverage, mutation score, etc.). Despite several advances made over the years, search-based unit test generation still suffers from a lack of guidance due to the limited amount of information available in the source code that, for instance, hampers the generation of complex objects. Previous studies introduced many strategies to address this issue, e.g., dynamic symbolic execution or seeding, but do not take the internal execution of the methods into account. In this paper, we introduce a novel secondary objective called commonality score, measuring how close the execution path of a test case is from reproducing a common or uncommon execution pattern observed during the operation of the software. To assess the commonality score, we implemented it in EvoSuite and evaluated its application on 150 classes from JabRef, an open-source software for managing bibliography references. Our results are mixed. Our approach leads to test cases that indeed follow common or uncommon execution patterns. However, if the commonality score can have a positive impact on the structural coverage and mutation score of the generated test suites, it can also be detrimental in some cases."
 featured: false
