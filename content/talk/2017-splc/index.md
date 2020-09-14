@@ -2,15 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tutorial: Testing Variability-Intensive Systems"
-event: 21st International Systems and Software Product Line Conference
+event: "21st International Systems and Software Product Line Conference"
 event_url: https://congreso.us.es/splc2017/
-location: Sevilla, Spain
+location: "NH Convenciones Hotel"
 address:
   street:
-  city:
+  city: Sevilla
   region:
   postcode:
-  country:
+  country: Spain
 summary:
 abstract:
 
@@ -23,8 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-09T17:17:36+02:00
 
-authors: ["Xavier Devroeu", "Maxime Cordy", "Gilles Perrouin"]
-tags: []
+authors: [admin, "Maxime Cordy", "Gilles Perrouin"]
+tags: ["Software Product Line Testing", "Featured Transition Systems"]
 
 # Is this a featured talk? (true/false)
 featured: false

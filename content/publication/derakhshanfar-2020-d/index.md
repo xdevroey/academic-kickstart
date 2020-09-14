@@ -2,7 +2,7 @@
 title: "Botsing, a Search-based Crash Reproduction Framework for Java"
 date: 2020-09-21
 publishDate: 2020-08-26T07:21:23.607305Z
-authors: ["Pouria Derakhshanfar", "Xavier Devroey", "Annibale Panichella", "Andy Zaidman", "Arie van Deursen"]
+authors: ["Pouria Derakhshanfar", admin, "Annibale Panichella", "Andy Zaidman", "Arie van Deursen"]
 publication_types: ["1"]
 abstract: "Approaches for automatic crash reproduction aim to generate test cases that reproduce crashes starting from the crash stack traces. These tests help developers during their debugging practices. One of the most promising techniques in this research field leverages search-based software testing techniques for generating crash reproducing test cases. In this paper, we introduce Botsing, an open-source search-based crash reproduction framework for Java. Botsing implements state-of-the-art and novel approaches for crash reproduction. The well-documented architecture of Botsing makes it an easy-to-extend framework, and can hence be used for implementing new approaches to improve crash reproduction. We have applied Botsing to a wide range of crashes collected from open source systems. Furthermore, we conducted a qualitative assessment of the crash-reproducing test cases with our industrial partners. In both cases, Botsing could reproduce a notable amount of the given stack traces."
 featured: false
@@ -17,7 +17,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://research.tudelft.nl/en/publications/botsing-a-search-based-crash-reproduction-framework-for-java'
+url_pdf: 
 url_code: 'https://github.com/STAMP-project/botsing'
 url_dataset: ''
 url_poster: ''

@@ -2,7 +2,7 @@
 title: "Search-based Crash Reproduction using Behavioral Model Seeding"
 date: 2020-02-01
 publishDate: 2020-08-09T11:45:06.109255Z
-authors: ["Pouria Derakhshanfar", "Xavier Devroey", "Gilles Perrouin", "Andy Zaidman", "Arie van Deursen"]
+authors: ["Pouria Derakhshanfar", admin, "Gilles Perrouin", "Andy Zaidman", "Arie van Deursen"]
 publication_types: ["2"]
 abstract: "Search-based crash reproduction approaches assist developers during debugging by generating a test case, which reproduces a crash given its stack trace. One of the fundamental steps of this approach is creating objects needed to trigger the crash. One way to overcome this limitation is seeding: using information about the application during the search process. With seeding, the existing usages of classes can be used in the search process to produce realistic sequences of method calls, which create the required objects. In this study, we introduce behavioural model seeding: a new seeding method that learns class usages from both the system under test and existing test cases. Learned usages are then synthesized in a behavioural model (state machine). Then, this model serves to guide the evolutionary process. To assess behavioural model seeding, we evaluate it against test seeding (the state-of-the-art technique for seeding realistic objects) and no seeding (without seeding any class usage). For this evaluation, we use a benchmark of 122 hard-to-reproduce crashes stemming from six open-source projects. Our results indicate that behavioural model seeding outperforms both test seeding and no seeding by a minimum of 6% without any notable negative impact on efficiency."
 featured: true

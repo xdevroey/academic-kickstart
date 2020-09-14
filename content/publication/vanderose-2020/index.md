@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Report from the 1st Int. Workshop on Education through Advanced Software Engineering and Artificial Intelligence (EASEAI '19)"
-authors: ["Benoit Vanderose", "Benoit Frenay", "Julie Henry", "Xavier Devroey"]
+authors: ["Benoit Vanderose", "Benoit Frenay", "Julie Henry", admin]
 date: 2020-01-01
 doi: "10.1145/3375572.3375579"
 

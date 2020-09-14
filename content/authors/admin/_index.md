@@ -76,11 +76,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-My name is Xavier Devroey. I am a postdoctoral researcher in the [Software Engineering Research Group](https://serg-delft.github.io) (SERG) of the [Delft University of Technology](https://www.tudelft.nl). Btween 2017 and 2019, I was involved in the [Big Software on the Run 3TU project](http://www.3tu-bsr.nl) (BSR) and the [Software Testing Amplification European project](https://stamp.ow2.org/) (STAMP). Prior, I obtained my Ph.D. in Computer Science from the University of Namur in Belgium, where I defended my thesis, entitled *Software Product Line Behavioural Model-Based Testing*, in August 2017.
+My name is Xavier Devroey. I am a postdoctoral researcher in the [Software Engineering Research Group](https://serg-delft.github.io) (SERG) of the [Delft University of Technology](https://www.tudelft.nl). Between 2017 and 2019, I was involved in the [Big Software on the Run 3TU project](http://www.3tu-bsr.nl) (BSR) and the [Software Testing Amplification European project](https://stamp.ow2.org/) (STAMP). Prior, I obtained my Ph.D. in Computer Science from the University of Namur in Belgium, where I defended my thesis, entitled *Software Product Line Behavioural Model-Based Testing*, in August 2017.
 
-My research ambition is to advance the state-of-the-art and practice of automated test case generation. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
+My research goal is to advance the state-of-the-art and practice of automated test case generation. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.

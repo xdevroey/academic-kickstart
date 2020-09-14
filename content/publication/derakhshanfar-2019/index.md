@@ -2,7 +2,7 @@
 title: "A benchmark-based evaluation of search-based crash reproduction"
 date: 2020-01-01
 publishDate: 2020-08-09T11:45:06.108233Z
-authors: ["Mozhan Soltani", "Pouria Derakhshanfar", "Xavier Devroey", "Arie van Deursen"]
+authors: ["Mozhan Soltani", "Pouria Derakhshanfar", admin, "Arie van Deursen"]
 publication_types: ["2"]
 abstract: "Crash reproduction approaches help developers during debugging by generating a test case that reproduces a given crash. Several solutions have been proposed to automate this task. However, the proposed solutions have been evaluated on a limited number of projects, making comparison difficult. In this paper, we enhance this line of research by proposing JCrashPack, an extensible benchmark for Java crash reproduction, together with ExRunner, a tool to simply and systematically run evaluations. JCrashPack contains 200 stack traces from various Java projects, including industrial open source ones, on which we run an extensive evaluation of EvoCrash, the state-of-the-art tool for search-based crash reproduction. EvoCrash successfully reproduced 43% of the crashes. Furthermore, we observed that reproducing NullPointerException, IllegalArgumentException, and IllegalStateException is relatively easier than reproducing ClassCastException, ArrayIndexOutOfBoundsException and StringIndexOutOfBoundsException. Our results include a detailed manual analysis of EvoCrash outputs, from which we derive 14 current challenges for crash reproduction, among which the generation of input data and the handling of abstract and anonymous classes are the most frequents. Finally, based on those challenges, we discuss future research directions for search-based crash reproduction for Java."
 featured: true

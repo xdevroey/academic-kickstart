@@ -3,14 +3,14 @@
 
 title: "Behavioral Model Seeding for Search-based Crash Reproduction"
 event: "Lorentz workshop: In-Vivo Analytics for Big Software Quality"
-event_url: http://www.lorentzcenter.nl/lc/web/2018/1008/info.php3?wsid=1008&venue=Oort
-location: Leiden, The Netherlands
+event_url: https://www.lorentzcenter.nl/in-vivo-analytics-for-big-software-quality.html
+location: Lorentz Center Oort
 address:
   street:
-  city:
+  city: Leiden
   region:
   postcode:
-  country:
+  country: Netherlands
 summary:
 abstract:
 
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-09T17:32:16+02:00
 
-authors: ["Xavier Devroey"]
+authors: [admin]
 tags: ["Search-Based Software Testing", "Crash Reproduction"]
 
 # Is this a featured talk? (true/false)

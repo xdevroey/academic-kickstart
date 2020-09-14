@@ -2,7 +2,7 @@
 title: "An Application of Model Seeding to Search-based Unit Test Generation for Gson"
 date: 2020-10-01
 publishDate: 2020-08-13T12:49:10.360146Z
-authors: ["Mitchell Olsthoorn", "Pouria Derakhshanfar", "Xavier Devroey"]
+authors: ["Mitchell Olsthoorn", "Pouria Derakhshanfar", admin]
 publication_types: ["1"]
 abstract: "Model seeding is a strategy for injecting additional information in a search-based test generation process in the form of models, representing usages of the classes of the software under test. These models are used during the search-process to generate logical sequences of calls whenever an instance of a specific class is required. Model seeding was originally proposed for search-based crash reproduction. We adapted it to unit test generation using EvoSuite and applied it to GSON, a Java library to convert Java objects from and to JSON. Although our study shows mixed results, it identifies potential future research directions."
 featured: false
