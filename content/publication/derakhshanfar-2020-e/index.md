@@ -16,14 +16,14 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf:
 url_code: 'https://github.com/STAMP-project/botsing'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/MJ7ZlFgH6So'
 
 links:
   - name: Replication package
