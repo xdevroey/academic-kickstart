@@ -16,7 +16,7 @@ subtitle = ""
 
 * Popping, S. (2020). [Fault localization using search-based crash reproduction](http://resolver.tudelft.nl/uuid:da6486bd-886c-44ac-832a-f9825f6a2ba8), Delft University of Technology.
 
-* Evers, B. (2020). [Unit test generation for common and uncommon behaviors](http://resolver.tudelft.nl/uuid:6d8a1835-9054-4e4a-a85f-99ac592978da), Delft University of Technology. ([source code](https://github.com/STAMP-project/evosuite-RAMP), [replication package](https://zenodo.org/record/3897512), [results](https://zenodo.org/record/3894710))
+* Evers, B. (2020). [Unit test generation for common and uncommon behaviors](http://resolver.tudelft.nl/uuid:6d8a1835-9054-4e4a-a85f-99ac592978da), Delft University of Technology. ([source code](https://github.com/STAMP-project/evosuite-RAMP), [replication package](https://zenodo.org/record/3897512), [results](https://zenodo.org/record/3894710), [publication at SSBSE '20](https://doi.org/10.1007/978-3-030-59762-7_9))
 
 * Xiang, S. (2020). [Specializing Fitness Functions for Crash Reproduction](http://resolver.tudelft.nl/uuid:26da088e-25e1-4de4-bfc2-6935e32646ab), Delft University of Technology. ([source code](https://github.com/STAMP-project/botsing), [replication package](https://github.com/CoolTomatos/fit2crash-replication-package))
 

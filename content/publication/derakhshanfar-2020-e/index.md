@@ -44,3 +44,5 @@ image:
 projects: [stamp]
 
 ---
+
+{{< youtube MJ7ZlFgH6So >}}

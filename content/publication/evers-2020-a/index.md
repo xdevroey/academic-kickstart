@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: "Various search-based test generation techniques have been proposed to automate the generation of unit tests fulfilling different criteria (e.g., line coverage, branch coverage, mutation score, etc.). Despite several advances made over the years, search-based unit test generation still suffers from a lack of guidance due to the limited amount of information available in the source code that, for instance, hampers the generation of complex objects. Previous studies introduced many strategies to address this issue, e.g., dynamic symbolic execution or seeding, but do not take the internal execution of the methods into account. In this paper, we introduce a novel secondary objective called commonality score, measuring how close the execution path of a test case is from reproducing a common or uncommon execution pattern observed during the operation of the software. To assess the commonality score, we implemented it in EvoSuite and evaluated its application on 150 classes from JabRef, an open-source software for managing bibliography references. Our results are mixed. Our approach leads to test cases that indeed follow common or uncommon execution patterns. However, if the commonality score can have a positive impact on the structural coverage and mutation score of the generated test suites, it can also be detrimental in some cases."
 featured: false
 publication: "*Search-Based Software Engineering - 12th International Symposium, SSBSE 2020*"
-doi: ""
+doi: "10.1007/978-3-030-59762-7_9"
 
 tags:
 - Search-Based Software Testing
@@ -15,14 +15,14 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://research.tudelft.nl/en/publications/commonality-driven-unit-test-generation'
+url_pdf:
 url_code: 'https://github.com/STAMP-project/evosuite-ramp'
 url_dataset: 'https://doi.org/10.5281/zenodo.3894711'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/FFiaTCEci5s'
 
 links:
   - name: Replication package
@@ -43,3 +43,5 @@ image:
 projects: [stamp]
 
 ---
+
+{{< youtube FFiaTCEci5s >}}

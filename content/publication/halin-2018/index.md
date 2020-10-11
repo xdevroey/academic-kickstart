@@ -26,7 +26,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/mjBmarVDBBo'
 
 links:
   - name: Replication package
@@ -48,3 +48,5 @@ image:
 projects: [stamp]
 
 ---
+
+{{< youtube mjBmarVDBBo >}}

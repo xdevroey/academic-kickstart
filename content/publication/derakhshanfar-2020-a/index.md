@@ -16,7 +16,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf:
 url_code: 'https://github.com/STAMP-project/botsing'
 url_dataset: ''
 url_poster: ''
@@ -40,3 +40,5 @@ image:
 projects: [stamp]
 
 ---
+
+{{< youtube GPXsWsjqaHc >}}

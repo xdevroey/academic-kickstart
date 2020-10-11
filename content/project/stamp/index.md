@@ -9,7 +9,7 @@ categories: [Funded]
 date: 2019-11-30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.stamp-project.eu/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +32,10 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+links:
+  - name: Website
+    url: 'https://www.stamp-project.eu/'
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -39,3 +43,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+STAMP aims at bringing test automation and amplification to the DevOps world. During my postdoc at TU Delft, I assumed the daily supervision and coordination of the scientific work package *runtime amplification* and the edition of the TU Delft deliverables.
+
+More information are available on the [STAMP website](https://www.stamp-project.eu/).

@@ -9,7 +9,7 @@ categories: [Funded]
 date: 2018-08-04
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://www.3tu-bsr.nl"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +32,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+links:
+  - name: Website
+    url: 'http://www.3tu-bsr.nl'
+
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -39,3 +44,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+BSR aims at developing novel techniques and tools to analyse software systems in vivo - making it possible to visualize behaviour, create models, check conformance, predict problems, and recommend corrective actions.
+
+More information are available on the [BSR website](http://www.3tu-bsr.nl).

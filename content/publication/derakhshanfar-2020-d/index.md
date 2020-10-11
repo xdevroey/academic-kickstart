@@ -17,14 +17,14 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf:
 url_code: 'https://github.com/STAMP-project/botsing'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=k6XaQjHqe48'
+url_video: 'https://www.youtube.com/k6XaQjHqe48'
 
 links:
   - name: Documentation
@@ -44,3 +44,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects: [stamp]
 ---
+
+
+{{< youtube k6XaQjHqe48 >}}

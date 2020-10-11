@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: "Model seeding is a strategy for injecting additional information in a search-based test generation process in the form of models, representing usages of the classes of the software under test. These models are used during the search-process to generate logical sequences of calls whenever an instance of a specific class is required. Model seeding was originally proposed for search-based crash reproduction. We adapted it to unit test generation using EvoSuite and applied it to GSON, a Java library to convert Java objects from and to JSON. Although our study shows mixed results, it identifies potential future research directions."
 featured: false
 publication: "*Search-Based Software Engineering - 12th International Symposium, SSBSE 2020*"
-doi: ""
+doi: "10.1007/978-3-030-59762-7_17"
 
 tags:
 - Search-Based Software Testing
@@ -15,7 +15,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://research.tudelft.nl/en/publications/an-application-of-model-seeding-to-search-based-unit-test-generat'
+url_pdf:
 url_code: 'https://github.com/STAMP-project/evosuite-ramp'
 url_dataset: ''
 url_poster: ''
@@ -40,6 +40,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [stamp]
+projects: [stamp,yami]
 
 ---

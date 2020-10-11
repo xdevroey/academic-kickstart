@@ -13,6 +13,10 @@ hugo new --kind publication publication/devroey-2020
 hugo new --kind project project/myproject
 ```
 
+```
+hugo new --kind post post/2020-10-08-ssbse20-bpa
+```
+
 ## Import publications
 
 ```
