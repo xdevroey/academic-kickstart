@@ -14,7 +14,15 @@ subtitle = ""
 
 ## Journals
 
-Reviewer and sub-reviewer for various journals, including: the [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/) (JSS), the [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32) (TSE), the [Journal of Software: Software Testing, Verification & Reliability](https://onlinelibrary.wiley.com/journal/10991689) (STVR), the [Information and Software Technology journal](https://www.journals.elsevier.com/information-and-software-technology) (IST), and the [International Journal on Software and Systems Modeling](http://www.sosym.org) (SoSyM). See my *[Publons profile](https://publons.com/author/1301794/xavier-devroey)* for more details.
+  * [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32) (TSE)
+  * [Empirical Software Engineering](https://www.springer.com/journal/10664) (EMSE)
+  * [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/) (JSS)
+  * [Information and Software Technology journal](https://www.journals.elsevier.com/information-and-software-technology) (IST)
+  * [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem) (TOSEM)
+  * [Journal of Software: Software Testing, Verification & Reliability](https://onlinelibrary.wiley.com/journal/10991689) (STVR)
+  * [International Journal on Software and Systems Modeling](http://www.sosym.org) (SoSyM)
+  
+See my *[Publons profile](https://publons.com/author/1301794/xavier-devroey)* for more details.
 
 ## Conferences and Workshops
 
