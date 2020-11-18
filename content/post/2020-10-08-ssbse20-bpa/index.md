@@ -5,7 +5,7 @@ title: "SSBSE 2020 Best Paper Award"
 subtitle: ""
 summary: ""
 authors: [admin]
-categories: []
+categories: ["Research results"]
 date: 2020-10-11T13:12:28+02:00
 lastmod: 2020-10-11T13:12:28+02:00
 featured: false

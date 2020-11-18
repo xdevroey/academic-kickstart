@@ -21,12 +21,11 @@ subtitle = ""
   * [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem) (TOSEM)
   * [Journal of Software: Software Testing, Verification & Reliability](https://onlinelibrary.wiley.com/journal/10991689) (STVR)
   * [International Journal on Software and Systems Modeling](http://www.sosym.org) (SoSyM)
-  
+
 See my *[Publons profile](https://publons.com/author/1301794/xavier-devroey)* for more details.
 
 ## Conferences and Workshops
 
-  * [CEC 2020](https://wcci2020.org) - 2020 IEEE Congress on Evolutionary Computation
   * [CEC 2019](http://cec2019.org) - 2019 IEEE Congress on Evolutionary Computation
   * [ICST 2018](https://www.es.mdh.se/icst2018/) - 11th IEEE International Conference on Software Testing, Verification and Validation
   * [SSBSE 2018](http://ssbse18.irisa.fr) Hot off the Press Track - 10th Symposium on Search-Based Software Engineering

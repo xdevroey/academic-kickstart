@@ -6,7 +6,7 @@ subtitle: "1st International Software Testing Education Workshop"
 summary: ""
 authors: [admin]
 tags: ["Software Testing", "Teaching"]
-categories: []
+categories: [Tips]
 date: 2020-10-31T13:52:11+01:00
 lastmod: 2020-10-31T13:52:11+01:00
 featured: false

@@ -14,9 +14,11 @@ subtitle = ""
 
 ## Technical Tracks
 
+  * CEC 2021 - 2021 IEEE Congress on Evolutionary Computation, Special Session on Evolutionary Computation in Software Testing
   * [VAMOS 2021](https://vamos2021.fh-krems.ac.at) - 15th International Working Conference on Variability Modelling of Software-Intensive Systems
   * [SPLC 2020](http://splc2020.net) - 24th International Systems and Software Product Line Conference
   * [SSBSE 2020](http://ssbse2020.di.uniba.it) - 12th Symposium on Search-Based Software Engineering
+  * [CEC 2020](http://antares.sip.ucm.es/cec-ecst20) - 2020 IEEE Congress on Evolutionary Computation, Special Session on Evolutionary Computation in Software Testing
   * [SEAA 2020](https://dsd-seaa2020.um.si) - 46th Euromicro Conference on Software Engineering and Advanced Applications
   * [VAMOS 2020](https://vamos2020.dbse.iti.cs.ovgu.de/) - 14th International Working Conference on Variability Modelling of Software-Intensive Systems
   * [SPLC 2019](https://splc2019.net) - 23rd International Systems and Software Product Line Conference
