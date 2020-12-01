@@ -12,7 +12,7 @@ subtitle = ""
   columns = "2"
 +++
 
-* Cherry, B. (2020). JCrashPack2.0: Search-based crash reproduction hardness analysis, University of Namur.
+* Cherry, B. (2020). [JCrashPack2.0: Search-based crash reproduction hardness analysis](https://researchportal.unamur.be/en/studentTheses/jcrashpack20), University of Namur. (publication at BENEVOL '20)
 
 * Popping, S. (2020). [Fault localization using search-based crash reproduction](http://resolver.tudelft.nl/uuid:da6486bd-886c-44ac-832a-f9825f6a2ba8), Delft University of Technology.
 
