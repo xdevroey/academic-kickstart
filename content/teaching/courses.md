@@ -14,7 +14,7 @@ subtitle = ""
 
 * CSE2115 Software Engineering and Methods (examiner),  Delft University of Technology (2020).
 
-* [IN4315 Software Architecture](https://se.ewi.tudelft.nl/delftswa/2020/) (guest lecturer),  [Software variability management](https://www.slideshare.net/XavierDevroey/software-variability-management-2020), Delft University of Technology (2019).
+* [IN4315 Software Architecture](https://se.ewi.tudelft.nl/delftswa/2020/) (guest lecturer),  [Software variability management](https://www.slideshare.net/XavierDevroey/software-variability-management-2020), Delft University of Technology (2020).
 
 * TI3115TU Software Engineering and Methods (teacher), Delft University of Technology (2019).
 

@@ -12,6 +12,7 @@ subtitle = ""
   columns = "2"
 +++
 
+* Co-chair of the Workshops of the [25th ACM International Systems and Software Product Line Conference](http://splc2021.net) (SPLC '21), Leicester, United Kingdom.
 * Co-chair of the Tool Demonstrations track of the [37th IEEE International Conference on Software Maintenance and Evolution](https://icsme2021.github.io) (ICSME '21'), Luxembourg City, Luxembourg.
 * Co-chair of the [2nd International Workshop on Education through Advanced Software Engineering and Artificial Intelligence](https://easeai.github.io/) (EASEAI '20), co-located with the [28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://2020.esec-fse.org) (ESEC/FSE '20), Sacramento, California, United States.
 * Chair of the [8th JUnit Testing Tool Competition](https://sbst20.github.io/tools/), co-located with the [13th International Workshop on Search-Based Software Testing](https://sbst20.github.io) (SBST '20), Seoul, South Korea.
