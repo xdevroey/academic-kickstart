@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Assessing configuration sampling on the JHipster Web development stack"
+title: "Assessing configuration sampling on the JHipster Web development stack (journal first)"
 event: 24th ACM International Systems and Software Product Line Conference (SPLC 2020)
 event_url: http://splc2020.net
 location: Online
