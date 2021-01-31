@@ -28,6 +28,7 @@ subtitle = ""
 ## Workshops and Other Tracks
 
   * [ISSTA 2021 Tool Demonstrations Track](https://conf.researchr.org/home/issta-2021) - 2021 ACM SIGSOFT International Symposium on Software Testing and Analysis
+  * [SPLC 2021 Artifact Evaluation Track](http://splc2021.net) - 25th ACM International Systems and Software Product Line Conference
   * [A-MOST 2021](https://icst2021.icmc.usp.br/home/a-most-2021) - 17th Workshop on Advances in Model Based Testing
   * [BENEVOL 2020](https://benevol2020.github.io) - 19th Belgium-Netherlands Software Evolution Workshop
   * [ESEC/FSE 2020 Artifact Evaluation Track](https://2020.esec-fse.org) - 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering

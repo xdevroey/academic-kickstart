@@ -5,7 +5,7 @@ title: "Variability Intensive system Behavioural teSting (VIBeS)"
 summary: "VIBeS is the framework I developed during my PhD thesis to generate test-cases from models of variability-intensive systems."
 authors: []
 tags: ["Software Testing", "Software Product Line"]
-categories: [Internal]
+categories: [Frameworks]
 date: 2017-08-31
 
 # Optional external URL for project (replaces project detail page).
