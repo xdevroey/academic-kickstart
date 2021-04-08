@@ -14,7 +14,7 @@ subtitle = ""
 
 ## Technical Tracks
 
-  * CEC 2021 - 2021 IEEE Congress on Evolutionary Computation, Special Session on Evolutionary Computation in Software Testing
+  * [CEC 2021](https://cec2021.mini.pw.edu.pl/en) - 2021 IEEE Congress on Evolutionary Computation, Special Session on Evolutionary Computation in Software Testing
   * SEAA 2021 - 47th Euromicro Conference on Software Engineering and Advanced Applications
   * [VAMOS 2021](https://vamos2021.fh-krems.ac.at) - 15th International Working Conference on Variability Modelling of Software-Intensive Systems
   * [SPLC 2020](http://splc2020.net) - 24th International Systems and Software Product Line Conference
@@ -27,7 +27,7 @@ subtitle = ""
 
 ## Workshops and Other Tracks
 
-  * [ISSTA 2021 Tool Demonstrations Track](https://conf.researchr.org/home/issta-2021) - 2021 ACM SIGSOFT International Symposium on Software Testing and Analysis
+  * [ISSTA 2021 Tool Demonstrations](https://conf.researchr.org/home/issta-2021) - 2021 ACM SIGSOFT International Symposium on Software Testing and Analysis
   * [SPLC 2021 Artifact Evaluation Track](http://splc2021.net) - 25th ACM International Systems and Software Product Line Conference
   * [A-MOST 2021](https://icst2021.icmc.usp.br/home/a-most-2021) - 17th Workshop on Advances in Model Based Testing
   * [BENEVOL 2020](https://benevol2020.github.io) - 19th Belgium-Netherlands Software Evolution Workshop
