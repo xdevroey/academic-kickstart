@@ -12,4 +12,4 @@ subtitle = ""
   columns = "2"
 +++
 
-* [Derakhshanfar, P.](https://pouria-d.me) (2021). Search-based crash reproduction, Delft University of Technology. (daily supervisor)
+  * [Derakhshanfar, P.](https://pouria-d.me) (2021). [Carving Information Sources to Drive Search-Based Crash Reproduction and Test Case Generation](https://doi.org/10.4233/uuid:aac5f17a-63d5-45c7-9570-3cea057cd016), Delft University of Technology. (daily supervisor)
