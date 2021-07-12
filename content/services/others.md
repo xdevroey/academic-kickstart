@@ -1,7 +1,7 @@
 +++
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Others"
@@ -12,7 +12,7 @@ subtitle = ""
   columns = "2"
 +++
 
-## Delft University of Technology (2017 - now)
+## Delft University of Technology (2017 - 2021)
 
 * Coordinator of the bi-weekly [Software Engineering Research Group](https://se.ewi.tudelft.nl) colloquiums.
 *	Organization of the 2019 spring and fall Software Engineering Research Group retreats.

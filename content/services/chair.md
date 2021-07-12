@@ -12,16 +12,26 @@ subtitle = ""
   columns = "2"
 +++
 
-* Co-PC-chair of the 13th Symposium on Search Based Software Engineering (SSBSE '21), Bari, Italy.
-* Co-chair of the Workshops of the [25th ACM International Systems and Software Product Line Conference](http://splc2021.net) (SPLC '21), Leicester, United Kingdom.
-* Co-chair of the Tool Demonstrations track of the [37th IEEE International Conference on Software Maintenance and Evolution](https://icsme2021.github.io) (ICSME '21'), Luxembourg City, Luxembourg.
-* Co-chair of the [2nd International Workshop on Education through Advanced Software Engineering and Artificial Intelligence](https://easeai.github.io/) (EASEAI '20), co-located with the [28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://2020.esec-fse.org) (ESEC/FSE '20), Sacramento, California, United States.
-* Chair of the [8th JUnit Testing Tool Competition](https://sbst20.github.io/tools/), co-located with the [13th International Workshop on Search-Based Software Testing](https://sbst20.github.io) (SBST '20), Seoul, South Korea.
-* Co-chair of the [1st International Workshop on Education through Advanced Software Engineering and Artificial Intelligence](https://easeai.github.io/EASEAI2019) (EASEAI '19), co-located with the [27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://esec-fse19.ut.ee) (ESEC/FSE '19), Tallinn, Estonia.
-* Co-chair of the [3rd International Machine Learning Techniques for Software Quality Evaluation](https://maltesque2019.github.io/) (MaLTeSQuE '19), co-located with the [27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://esec-fse19.ut.ee) (ESEC/FSE '19), Tallinn, Estonia.
-* Co-chair of the [7th JUnit Testing Tool Competition](https://sbst19.github.io/tools/), co-located with the [12th International Workshop on Search-Based Software Testing](https://sbst19.github.io) (SBST '19), Montreal, Canada.
-* Part of the organizing committee of the [24th Nederlandse testdag](https://testdag2018.github.io), Delft, The Netherlands.
-* Co-chair of the [1st International Workshop on Machine Learning and Software Engineering in Symbiosis](https://mases18.github.io) (MASES '18), co-located with ASE 2018, Montpellier, France.
-* Part of the organizing committee of the [Second Edition of BSR Summer School on “Big Software on the Run: where Software meet Data”](http://www.3tu-bsr.nl/summerschool2018/start), Berg en Dal, the Netherlands.
-* Co-chair of the [14th Workshop on Advances in Model Based Testing](https://amost2018.wordpress.com) (A-MOST '18), co-located with ICST 2018, Västerås, Sweden.
-* Co-chair of the [13th Workshop on Advances in Model Based Testing](http://a-most17.zen-tools.com) (A-MOST '17), co-located with ICST 2017, Tokyo, Japan.
+#### 2022
+
+  * [VaMoS 2022 Research track](https://vamos2022.isti.cnr.it) - 16th International Working Conference on Variability Modelling of Software-Intensive Systems, Florence, Italy.
+  * [ICST 2022 Posters track](https://icst2022.vrain.upv.es) - 15th IEEE International Conference on Software Testing, Verification and Validation, Online.
+
+#### 2021
+
+  * [SSBSE 2021 Research track](https://conf.researchr.org/home/ssbse-2021) - 13th Symposium on Search Based Software Engineering, Bari, Italy.
+  * [SPLC 2021 workshops](http://splc2021.net) - 25th ACM International Systems and Software Product Line Conference, Leicester, United Kingdom.
+  * [ICSME 2021 Tool Demonstrations track](https://icsme2021.github.io) - 37th IEEE International Conference on Software Maintenance and Evolution, Luxembourg City, Luxembourg.
+
+#### 2020 and before
+
+  * [EASEAI 2020](https://easeai.github.io/) - 2nd International Workshop on Education through Advanced Software Engineering and Artificial Intelligence, co-located with [ESEC/FSE 2020](https://2020.esec-fse.org), Sacramento, California, United States.
+  * [8th JUnit Testing Tool Competition](https://sbst20.github.io/tools/), co-located with [SBST 2020](https://sbst20.github.io), Seoul, South Korea.
+  * [EASEAI 2019](https://easeai.github.io/) - 1st International Workshop on Education through Advanced Software Engineering and Artificial Intelligence, co-located with [ESEC/FSE 2019](https://esec-fse19.ut.ee), Tallinn, Estonia.
+  * [MaLTeSQuE 2019](https://maltesque2019.github.io/) - 3rd International Machine Learning Techniques for Software Quality Evaluation, co-located with [ESEC/FSE 2019](https://esec-fse19.ut.ee), Tallinn, Estonia.
+  * [7th JUnit Testing Tool Competition](https://sbst19.github.io/tools/), co-located with [SBST 2019](https://sbst19.github.io), Montreal, Canada.
+  * [24th Nederlandse testdag](https://testdag2018.github.io) organizing committee member, Delft, The Netherlands.
+  * [MASES 2018](https://mases18.github.io) - 1st International Workshop on Machine Learning and Software Engineering in Symbiosis, co-located with [ASE 2018](http://www.ase2018.com), Montpellier, France.
+  * [Second Edition of BSR Summer School on “Big Software on the Run: where Software meet Data”](http://www.3tu-bsr.nl/summerschool2018/start) organizing committee member, Berg en Dal, the Netherlands.
+  * [A-MOST 2018](https://amost2018.wordpress.com) - 14th Workshop on Advances in Model Based Testing, co-located with [ICST 2018](https://www.es.mdh.se/icst2018/), Västerås, Sweden.
+  * [A-MOST 2017](http://a-most17.zen-tools.com) - 13th Workshop on Advances in Model Based Testing, co-located with [ICST 2017](http://aster.or.jp/conference/icst2017/), Tokyo, Japan.

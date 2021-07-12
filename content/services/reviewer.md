@@ -14,7 +14,6 @@ subtitle = ""
 
 ## Journals
 
-  * [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32) (TSE)
   * [Empirical Software Engineering](https://www.springer.com/journal/10664) (EMSE)
   * [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/) (JSS)
   * [Information and Software Technology journal](https://www.journals.elsevier.com/information-and-software-technology) (IST)
@@ -26,6 +25,7 @@ See my *[Publons profile](https://publons.com/author/1301794/xavier-devroey)* fo
 
 ## Conferences and Workshops
 
+  * [ICSE 2021](https://conf.researchr.org/home/icse-2021) - 43rd International Conference on Software Engineering
   * [CEC 2019](http://cec2019.org) - 2019 IEEE Congress on Evolutionary Computation
   * [ICST 2018](https://www.es.mdh.se/icst2018/) - 11th IEEE International Conference on Software Testing, Verification and Validation
   * [SSBSE 2018](http://ssbse18.irisa.fr) Hot off the Press Track - 10th Symposium on Search-Based Software Engineering

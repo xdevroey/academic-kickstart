@@ -43,9 +43,10 @@ Pointers to useful resources
 Ok, enough blabla, here are some pointers, useful for writing:
 
 - [The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style) by *William Strunk Jr.* and *E. B. White* is an excellent entry point for writing in English. It contains a simple list of rules to keep in mind when writing.
-- The great [bog post by Arie van Deursen](https://avandeursen.com/2013/07/10/research-paper-writing-recommendations/) with a list of recommendations for writing a scientific paper.
-- Another great [blog post by Steve Easterbrook](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) explaining how to write a scientific abstract in six easy steps.
-- And yet another great [blog post by Sarah Nadi](https://sarahnadi.org/writing-papers/) with useful writing tips and (more importantly) a checklist to correctly set up your paper and collaborative infrastructure from the start (it will avoid you a lot of stress later).
+- The [bog post by Arie van Deursen](https://avandeursen.com/2013/07/10/research-paper-writing-recommendations/) with a list of recommendations for writing a scientific paper.
+- Another [blog post by Steve Easterbrook](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) explaining how to write a scientific abstract in six easy steps.
+- And yet another [blog post by Sarah Nadi](https://sarahnadi.org/writing-papers/) with useful writing tips and (more importantly) a checklist to correctly set up your paper and collaborative infrastructure from the start (it will avoid you a lot of stress later).
+- For student thesis, the [blog post by Philipp Leitner](https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381) covering several aspects of thesis writing, including how to manage interactions with the supervisor.
 
 ... and tooling:
 

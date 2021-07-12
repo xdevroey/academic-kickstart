@@ -3,11 +3,10 @@
 
 title: "JUnit Testing Tool Competition"
 summary: "The JUnit Testing Tool Competition is held at the SBST workshop co-located with ICSE. The contest's infrastructure (JUGE) has been developed and used in testing contests during yearly events since 2013."
-authors:
-  - admin
+authors: []
 tags:
   - Search-Based Software Testing
-categories: [Frameworks]
+categories: [Framework]
 date: 2021-01-31
 
 # Optional external URL for project (replaces project detail page).

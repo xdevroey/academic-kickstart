@@ -5,7 +5,7 @@ title: "Yet Another Model Inference (YAMI)"
 summary: "YAMI is a simple tool to learn usage models from execution traces contained in application logs."
 authors: []
 tags: ["Statistical Testing", "Prioritization"]
-categories: [Frameworks]
+categories: [Framework]
 date: 2017-08-30
 
 # Optional external URL for project (replaces project detail page).
