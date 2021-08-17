@@ -25,7 +25,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: 'https://youtu.be/Ax4fQ9j0ZFg'
 
 
 # Featured image
@@ -48,3 +48,5 @@ publication_types:
 publication: "*Proceedings of the 3rd International Workshop on Education through Advanced Software Engineering and Artificial Intelligence (EASEAI '21)*"
 doi: 10.1145/3472673.3473959
 ---
+
+{{< youtube Ax4fQ9j0ZFg >}}
