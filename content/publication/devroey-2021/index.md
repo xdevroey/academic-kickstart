@@ -10,7 +10,7 @@ authors:
 tags:
 - Education
 - Software Engineering
-date: '2021-08-01'
+date: '2021-08-23'
 lastmod: 2021-07-12T08:34:59+02:00
 featured: false
 draft: false
