@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Xavier Devroey, researcher in software testing and software engineering."
+description = "Personal website of Xavier Devroey, assistant professor of software engineering at the University of Namur."
 
 ############################
 ## Site Features
@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "x.d.m.devroey@tudelft.nl"
+email = "xavier.devroey@unamur.be"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Postbus 5", city = "Delft", postcode = "2600 AA", country = "Netherlands", country_code = "NL"}
+address = {street = "rue de Bruxelles, 61", city = "Namur", postcode = "5000", country = "Belgium", country_code = "BE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.999103", longitude = "4.378593"}
+coordinates = {latitude = "50.46583541018055", longitude = "4.857561368311193"}
 
 # Directions for visitors to locate you.
-directions = "Building 28, office 4.W740 (4th floor, West side)."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

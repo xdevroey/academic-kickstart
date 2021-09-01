@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Delft University of Technology
-  url: "https://se.ewi.tudelft.nl"
+- name: University of Namur
+  url: "https://unamur.be"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems engineering.
@@ -27,17 +27,17 @@ interests:
 - Variability Modeling
 - Software Product Line Testing
 
-education:
-  courses:
-  - course: Ph.D. in Computer Science
-    institution: University of Namur, Belgium
-    year: 2017
-  - course: Master in Computer Science
-    institution: University of Namur, Belgium
-    year: 2010
-  - course: Bachelor Analyst Programmer
-    institution: Haute Ecole de Bruxelles, Belgium
-    year: 2007
+# education:
+#   courses:
+#   - course: Ph.D. in Computer Science
+#     institution: University of Namur, Belgium
+#     year: 2017
+#   - course: Master in Computer Science
+#     institution: University of Namur, Belgium
+#     year: 2010
+#   - course: Bachelor Analyst Programmer
+#     institution: Haute Ecole de Bruxelles, Belgium
+#     year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:xavier.devroey@unamur.be'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/xdevroey
@@ -81,6 +81,4 @@ email: ""
 # - Visitors
 ---
 
-My name is Xavier Devroey. I am a postdoctoral researcher in the [Software Engineering Research Group](https://serg-delft.github.io) (SERG) of the [Delft University of Technology](https://www.tudelft.nl) where I work on search-based techniques for test case generation and crash reproduction. Prior, I obtained my Ph.D. in Computer Science from the University of Namur in Belgium, where I defended my thesis, entitled *Software Product Line Behavioural Model-Based Testing*, in August 2017.
-
-My research goal is to advance the state-of-the-art and practice of automated test case generation. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
+My name is Xavier Devroey. I am an assistant professor of software engineering at the [Faculty of Computer Science](https://www.unamur.be/en/inf) of the [University of Namur](https://www.unamur.be). My research goal is to advance the state-of-the-art and practice of automated test case generation. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
