@@ -10,18 +10,13 @@
 
 [[main]]
   name = "Research"
-  url = "research/#banner"
+  url = "#publications"
   weight = 30
 
 [[main]]
-    name = "Teaching"
-    url = "teaching/#banner"
+    name = "Courses"
+    url = "#courses"
     weight = 50
-
-[[main]]
-    name = "Services"
-    url = "services/#banner"
-    weight = 60
 
 [[main]]
   name = "Posts"

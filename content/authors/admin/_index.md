@@ -27,17 +27,17 @@ interests:
 - Variability Modeling
 - Software Product Line Testing
 
-# education:
-#   courses:
-#   - course: Ph.D. in Computer Science
-#     institution: University of Namur, Belgium
-#     year: 2017
-#   - course: Master in Computer Science
-#     institution: University of Namur, Belgium
-#     year: 2010
-#   - course: Bachelor Analyst Programmer
-#     institution: Haute Ecole de Bruxelles, Belgium
-#     year: 2007
+education:
+  courses:
+  - course: Ph.D. in Computer Science
+    institution: University of Namur, Belgium
+    year: 2017
+  - course: Master in Computer Science
+    institution: University of Namur, Belgium
+    year: 2010
+  - course: Bachelor Analyst Programmer
+    institution: Haute Ecole de Bruxelles, Belgium
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -81,4 +81,4 @@ email: ""
 # - Visitors
 ---
 
-My name is Xavier Devroey. I am an assistant professor of software engineering at the [Faculty of Computer Science](https://www.unamur.be/en/inf) of the [University of Namur](https://www.unamur.be). My research goal is to advance the state-of-the-art and practice of automated test case generation. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
+My name is Xavier Devroey. I am an assistant professor of software engineering at the [Faculty of Computer Science](https://www.unamur.be/en/inf) of the [University of Namur](https://www.unamur.be). My research goal is to to ease software testing by exploring new paths to achieve a high level of automation for test case design, generation, selection, and prioritization. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
