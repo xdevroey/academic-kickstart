@@ -81,4 +81,4 @@ email: ""
 # - Visitors
 ---
 
-My name is Xavier Devroey. I am an assistant professor of software engineering at the [Faculty of Computer Science](https://www.unamur.be/en/inf) of the [University of Namur](https://www.unamur.be). My research goal is to to ease software testing by exploring new paths to achieve a high level of automation for test case design, generation, selection, and prioritization. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
+My name is Xavier Devroey. I am an assistant professor of software engineering at the [University of Namur](https://www.unamur.be), where, together with Benoît Vanderose, we co-lead the [SNAIL Team](https://snail.info.unamur.be). My research goal is to to ease software testing by exploring new paths to achieve a high level of automation for test case design, generation, selection, and prioritization. My main research interests include search-based and model-based software testing, test suite augmentation, DevOps, and variability-intensive systems.
