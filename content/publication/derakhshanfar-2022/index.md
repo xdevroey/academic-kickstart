@@ -32,7 +32,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/RaJFCnj9DCQ'
 
 # links:
 #   - name: Replication package
@@ -53,3 +53,5 @@ image:
 projects: [stamp, juge]
 
 ---
+
+{{< youtube RaJFCnj9DCQ >}}

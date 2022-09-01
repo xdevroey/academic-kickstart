@@ -14,5 +14,14 @@ subtitle = ""
 
 #### Bachelor in Computer Science
 
-  * INFCB112 - Introduction to Algorithms
   * INFOB302 - Introduction to Scientific Research
+  * INFCB112/LSINC1103 - Introduction to Algorithms
+  * INFCB313/LSINC1509 - Software Project 4
+  
+#### Master in Computer Science
+
+  * INFOM124 - Software Verification and Validation
+  * INFOM125 - Software Testing and Quality
+  * INFOM126 - Automated Software Engineering
+  * INFOM227 - Program Analysis for Cybersecurity
+  
