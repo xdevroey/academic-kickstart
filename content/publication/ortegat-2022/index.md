@@ -25,7 +25,7 @@ url_poster:
 url_project:
 url_slides: 
 url_source:
-url_video: 
+url_video: 'https://youtu.be/yB9kHv4xmLg'
 
 
 # Featured image
@@ -41,10 +41,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [cyberexcellence]
 publishDate: '2022-09-01T00:00:01.633930Z'
 publication_types:
 - '1'
 publication: "*Proceedings of the 4th International Workshop on Education through Advanced Software Engineering and Artificial Intelligence (EASEAI '22)*"
 doi: 10.1145/3548660.3561334
 ---
+
+{{< youtube yB9kHv4xmLg >}}
