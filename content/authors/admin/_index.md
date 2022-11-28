@@ -47,24 +47,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:xavier.devroey@unamur.be'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/xdevroey
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=GTaILJgAAAAJ
+  link: https://mas.to/@xdevroey
 - icon: github
   icon_pack: fab
   link: https://github.com/xdevroey
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0831-7606
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/author/1301794/xavier-devroey
+# - icon: publons
+#   icon_pack: ai
+#   link: https://publons.com/author/1301794/xavier-devroey
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/16/11059
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GTaILJgAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
