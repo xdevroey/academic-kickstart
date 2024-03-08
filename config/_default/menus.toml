@@ -19,8 +19,8 @@
     weight = 50
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Team"
+  url = "https://snail.info.unamur.be"
   weight = 80
 
 # [[main]]

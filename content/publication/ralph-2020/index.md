@@ -4,7 +4,7 @@ date: 2020-07-01
 publishDate: 2020-08-13T12:49:10.359555Z
 authors: ["Paul Ralph", "Sebastian Baltes", "Gianisa Adisaputri", "Richard Torkar", "Vladimir Kovalenko", "Marcos Kalinowski", "Nicole Novielli", "Shin Yoo", admin, "Xin Tan", "Minghui Zhou", "Burak Turhan", "Rashina Hoda", "Hideaki Hata", "Gregorio Robles", "Amin Milani Fard", "Rana Alkadhi"]
 publication_types: ["2"]
-publication: "*Empirical Software Engineering (EMSE)*"
+publication: "*Empirical Software Engineering*"
 doi: "10.1007/s10664-020-09875-y"
 abstract: "Context: As a novel coronavirus swept the world in early 2020, thousands of software developers began working from home. Many did so on short notice, under difficult and stressful conditions.
 
